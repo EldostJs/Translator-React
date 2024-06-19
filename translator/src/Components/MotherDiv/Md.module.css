@@ -1,0 +1,6 @@
+.md{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding-top: 20%;
+}
